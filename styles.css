@@ -1,0 +1,19 @@
+.container {
+   padding: 10px;
+   margin-left: 30px;
+}
+
+#search-input{
+  padding: 10px;
+  width: 400px;
+  border-radius: 50px;
+}
+
+#search-btn{
+  padding: 10px;
+  margin-left: 40px;
+  width: 100px;
+  border-radius: 40px;
+}
+
+/* Additional styles can be added as per requirement */
